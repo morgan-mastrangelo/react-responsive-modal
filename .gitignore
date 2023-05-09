@@ -1,0 +1,13 @@
+*.log
+.DS_Store
+node_modules
+.cache
+dist
+coverage
+.next
+out
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+.pnp.*
+.next
